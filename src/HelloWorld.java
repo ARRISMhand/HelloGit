@@ -1,5 +1,3 @@
-import src;
-
 public class HelloWorld {
 
     
